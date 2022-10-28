@@ -1,30 +1,19 @@
 {
     "mahasiswa": [
-        {
-          "id": 1,
-          "name": "Ana",
-          "kelas": "A",
-          "nilai": 80
-        },
-        {
-            "id": 2,
-            "name": "Budi",
-            "kelas": "B",
-            "nilai": 70
-          },
-          {
-            "id": 3,
-            "name": "Caca",
-            "kelas": "B",
-            "nilai": 40
-          },
-          {
-            "id": 4,
-            "name": "Suhe",
-            "kelas": "A",
-            "nilai": 50
-          }
-      ]
-    }
-  
-
+      {
+        "id": 1,
+        "title": "Post 1",
+        "description": "this is description 1"
+      },
+      {
+        "id": 2,
+        "title": "Post 2",
+        "description": "this is description 2"
+      },
+      {
+        "id": 3,
+        "title": "Post 3",
+        "description": "this is description 3"
+      }
+    ]
+  }
