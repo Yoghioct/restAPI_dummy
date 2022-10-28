@@ -2,27 +2,27 @@
     "mahasiswa": [
       {
         "id": 1,
-        "nama": "Post 1",
+        "nama": "Ani",
         "kelas": "A",
         "nilai": 80
       },
       {
         "id": 2,
-        "nama": "Post 1",
-        "kelas": "A",
-        "nilai": 80
+        "nama": "Budi",
+        "kelas": "B",
+        "nilai": 70
       },
       {
         "id": 3,
-        "nama": "Post 1",
-        "kelas": "A",
-        "nilai": 80
+        "nama": "Caca",
+        "kelas": "B",
+        "nilai": 40
       },
       {
         "id": 4,
-        "nama": "Post 1",
+        "nama": "Suhe",
         "kelas": "A",
-        "nilai": 80
+        "nilai": 50
       }
     ]
   }
